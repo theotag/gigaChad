@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+section{
+    height: 100vh;
+    overflow:hidden;
+    background: #000;
+}
+p{
+    position: relative;
+    font-size: 10px ;
+    letter-spacing: -0.05;
+    line-height: 0.7em;
+    background: url('./gigaChad.png'), url('./gigaChad.png');
+    background-blend-mode: color-dodge;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;    
+    background-repeat: no-repeat;
+    -webkit-background-clip: text;
+    color: transparent;
+    filter: brightness(3);
+}
