@@ -15,7 +15,7 @@ p{
     font-size: 10px ;
     letter-spacing: -0.05;
     line-height: 0.7em;
-    background: url('./gigaChad.png'), url('./gigaChad_clipdrop-relight.png');
+    background: url('./gigaChad_clipdrop-relight.png'), url('./gigaChad_clipdrop-relight.png');
     background-blend-mode: color-dodge;
     background-position: center;
     background-attachment: fixed;
